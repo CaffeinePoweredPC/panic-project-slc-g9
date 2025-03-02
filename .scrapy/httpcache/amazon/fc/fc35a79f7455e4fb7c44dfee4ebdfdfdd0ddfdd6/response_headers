@@ -1,0 +1,20 @@
+Server: Server
+Date: Sun, 02 Mar 2025 13:37:33 GMT
+X-Amz-Rid: T4FW5VMT9YMES1543GVE
+Set-Cookie: ubid-main=134-7187039-5036860; Domain=.amazon.com; Expires=Mon, 02-Mar-2026 13:37:33 GMT; Path=/; Secure
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+X-Content-Type-Options: nosniff
+Location: /hohem-Stabilizer-Smartphone-Stabilizers-Stabilization/dp/B0D7D1VQ9Y/ref=sr_1_19_sspa?dib=eyJ2IjoiMSJ9.v8-v_dYf_IhKGWbz-_aPp70zXkfRmRqVWTHt1rRBt8BXjdddHEAY8IhxfhkJDtY64HEospZX4hD5xcvW_7KWj81XThl-rizeCo4sh2swm4icWwKGzV2nEm6gBpx3pqpIRzegGvRVCaTFdluZtDNpeJOOcH9XpNeVtHoulDbJsfNJY3K4UEOYnDOt9lpRuoKE74uMAS0JDO4cohJHSrsyzOKg_VNSe64N-vDGIDgIhHo.93UyqX_1E5oD6WmLuKBIct_OiD_1XIf-vet1TaF-lYI&dib_tag=se&keywords=smartphone&qid=1740921928&sr=8-19-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1
+X-Xss-Protection: 1;
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch-Lifetime: 86400
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 78ffd64f74b6fee6e21c1f2c6d332e6a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: CGK51-P4
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: bflN98csRXEm9FZn6vil_QnHaWmjmbnFRZ1vlA3Tv1mntBcwuzk8_g==

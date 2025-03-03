@@ -1,0 +1,20 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Vary: Content-Type,Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-transform
+X-Amz-Rid: JGHNYCXE6APQD30D0B81
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr
+Accept-Ch-Lifetime: 86400
+X-Xss-Protection: 1;
+Date: Sun, 02 Mar 2025 15:37:59 GMT
+Set-Cookie: ubid-main=130-4353009-4753526; Domain=.amazon.com; Expires=Mon, 02-Mar-2026 15:37:59 GMT; Path=/; Secure
+Alt-Svc: h3=":443"; ma=93600
+X-Amzn-Cdn-Id: ak-0.85f22217.1740929879.cee06588
+X-Cache: NotCacheable from child
